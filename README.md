@@ -1,0 +1,1 @@
+# solved-assignment-3-practical-op-amps---understanding-op-amp-parameters
